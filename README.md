@@ -3,7 +3,7 @@
 
 * [github labs](https://github.com/MicrosoftLearning/DP-201-Designing-an-Azure-Data-Solution)
 
-**You need to understand the design choices: why/when/how in all links 
+**You need to understand the design choices: why/when/how in all links**
 
 You can do free labs on microsoft learn for handon 
 https://docs.microsoft.com/en-us/learn/
